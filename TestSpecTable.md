@@ -21,5 +21,3 @@
 | TC09    | Only Large Numbers Present            | `"1001,1002"`          | `0`                                     | Validates when all numbers are too large |
 
 | TC10    | Invalid Input with Trailing Delimiter | `"1,\n"`               | Exception: invalid input format         | Validates rejection of malformed numbers |
-
- 
